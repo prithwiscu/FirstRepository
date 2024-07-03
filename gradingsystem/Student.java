@@ -7,7 +7,15 @@
  */
 public class Student
 {
+    private String name;
+    private int total_mark;
+    
+    
     public static void main(String[] args) {
+        
+    }
+    
+    public Student() {
         
     }
 }
